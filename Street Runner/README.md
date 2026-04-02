@@ -1,4 +1,4 @@
-# Street Runner – OpenGL Endless Running
+# Street Runner – OpenGL Endless Running Game
 
 A 3D endless runner game built using C++ and OpenGL (GLUT).
 
